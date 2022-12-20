@@ -20,6 +20,6 @@ date: 2022-12-20 10:00:00 +0900
 아무리 테스트 목적의 서버지만 CPU는 2개 이상, 메모리는 4 GB정도가 적당하다. 그리고 위에서 다운로드 받은 ISO를 CD/DVD드라이브에 
 설정하고 **전원을 켤 때 연결**을 잊지 말자.
 
-![새 가상 시스템의 하드웨어 설정](https://user-images.githubusercontent.com/100823210/208561487-8be059de-d663-48de-bddb-1c091d75f1e8.png){: width="100%" height="100%"}
+![새 가상 시스템의 하드웨어 설정](https://user-images.githubusercontent.com/100823210/208561487-8be059de-d663-48de-bddb-1c091d75f1e8.png "새 가상 시스템의 하드웨어 설정"){: width="100%" height="100%"}
 
 **(작성중...)**
