@@ -56,14 +56,14 @@ NETWORK를 설정했다면 자동으로 ON되어 있을것이다. 마우스를 �
 
 ## 7.ROOT PASSWORD
 운영환경이면 USER CREATION을 해서 user를 생성한 다음 sudo 명령을 통하여 root 권한을 행사하는것이 낫다. 그러나, 테스트환경에서 특별히 필요없기 때문에 root의 비밀번호를 설정한다.
-![Install progressing](https://user-images.githubusercontent.com/100823210/208583321-653a05fe-c697-4565-b6bb-6fae1d705601.png)
+![Install progressing](https://user-images.githubusercontent.com/100823210/208583321-653a05fe-c697-4565-b6bb-6fae1d705601.png){: width="100%" height="100%"}
 
 만약, root의 비밀번호를 root로 동일하게 설정하는 경우 DONE버튼을 두번 눌러야 진행이 된다.
-![root password](https://user-images.githubusercontent.com/100823210/208583391-8f35ab9f-8856-4ba5-b2f2-fc9daaa58143.png)
+![root password](https://user-images.githubusercontent.com/100823210/208583391-8f35ab9f-8856-4ba5-b2f2-fc9daaa58143.png){: width="100%" height="100%"}{: width="100%" height="100%"}
 
 ## 8.설치 완료
 설치가 완료되면 아래와 같이 "Reboot" 버튼이 활성화된다. 누르면 재부팅이 된다.
-![install completed](https://user-images.githubusercontent.com/100823210/208584979-f2cb4700-59b8-45c9-9fa5-5fe955e8686b.png)
+![install completed](https://user-images.githubusercontent.com/100823210/208584979-f2cb4700-59b8-45c9-9fa5-5fe955e8686b.png){: width="100%" height="100%"}
 
 # 마치며
 이로서 Oracle Linux 7.9의 설치과정을 마쳤다. Redhat 계열의 Linux이기 때문에 RHEL/CentOS와 별반 차이가 없다.
